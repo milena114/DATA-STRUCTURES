@@ -1,0 +1,41 @@
+//Testez et essayez les schémas interactifs de chaque structure de données et algorithmes de tri
+2. Algorithm Visualizer
+URL: Algorithm Visualizer
+Description: Cet outil interactif vous permet de visualiser plusieurs algorithmes courants, y compris les tris, les recherches, les parcours de graphes, et plus encore. Vous pouvez observer les étapes de l'algorithme en temps réel.
+3. Sorting Algorithms Animations
+URL: Sorting Algorithms Animations
+Description: Ce site propose des animations interactives pour différents algorithmes de tri. Vous pouvez comparer la vitesse et l'efficacité de chaque algorithme sur des ensembles de données variés.
+4. CS50 Visualizer
+URL: CS50 Visualizer
+Description: Développé par le cours CS50 de Harvard, cet outil vous permet de visualiser divers algorithmes et structures de données. Vous pouvez ajuster les paramètres pour voir comment ils affectent les performances.
+5. GeeksforGeeks Data Structures
+URL: GeeksforGeeks
+Description: GeeksforGeeks propose des explications détaillées, des exemples de code et des animations pour une grande variété de structures de données et d'algorithmes. Bien que ce ne soit pas aussi interactif que d'autres options, c'est une excellente ressource pour l'apprentissage en profondeur.
+6. LeetCode Explore Sections
+URL: LeetCode
+Description: LeetCode propose des sections interactives appelées "Explore" où vous pouvez pratiquer des algorithmes spécifiques, y compris les tris et les structures de données. Vous résolvez des problèmes tout en apprenant les concepts.
+Chacune de ces ressources vous permet d'interagir directement avec les algorithmes et les structures de données pour mieux comprendre leur fonctionnement. N'hésitez pas à explorer plusieurs de ces options pour trouver celle qui correspond le mieux à votre style d'apprentissage.
+
+
+
+
+
+//Énumérez les noms des structures de données et des algorithmes de tri que vous ne connaissez pas encore et pourquoi vous ne les maîtrisez toujours pas.
+
+Structures de données :
+//Tableaux (Arrays)
+//Listes chaînées (Linked Lists)
+//Piles (Stacks)
+//Files d'attente (Queues)
+//Arbres binaires (Binary Trees)
+//Arbres AVL
+//Graphes (Graphs)
+//Tables de hachage (Hash Tables)
+//Algorithmes de tri :
+//Tri à bulles (Bubble Sort)
+//Tri par insertion (Insertion Sort)
+//Tri par sélection (Selection Sort)
+//Tri rapide (Quick Sort)
+//Tri fusion (Merge Sort)
+//Tri tas (Heap Sort)
+//Tri par comptage (Counting Sort)
